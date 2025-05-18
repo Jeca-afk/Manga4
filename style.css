@@ -1,0 +1,51 @@
+h1{
+    background-color: red;
+    text-align: center;
+    padding: 15px;
+}
+
+.s{
+    background-color: black;
+    text-decoration: dashed;
+    border-radius: 999px;
+    margin: 50px;
+    padding: 20px;
+}
+.Manga{
+    display: flex;
+}
+p{
+    text-align: center;
+    color: black; 
+}
+.pofig{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    background-color: rgba(255, 0, 0, 0.5);
+    border: double;
+}
+h2{
+    text-align: center;
+}
+.takji{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    background-color: gray;
+    border: double;
+}
+.cop{
+    display: flex;
+    flex-wrap: wrap;
+}
+footer{
+    background-color: rgb(161, 134, 134);
+    border: 2px solid;
+}
+nav{
+    margin: 40px;
+}
+
